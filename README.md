@@ -1,7 +1,7 @@
 # 📊 UrbaNest – Analiza poslovanja 
 
 ## 🧠 Pregled projekta
-Ovaj projekat predstavlja analizu poslovanja kompanije UrbaNest sa ciljem identifikacije ključnih poslovnih uvida, optimizacije procesa i donošenja data-driven odluka.
+Ovaj projekat predstavlja analizu poslovanja kompanije UrbaNest sa ciljem identifikacije ključnih poslovnih uvida, optimizacije procesa i donošenja data driven odluka.
 
 Analiza je sprovedena korišćenjem alata Excel i Power BI nad podacima iz perioda 2016–2021.
 
@@ -43,7 +43,7 @@ Fokus analize:
 
 ---
 
-## 🇫🇷 Analiza profitabilnosti (Francuska)
+## Analiza profitabilnosti (Francuska)
 
 ### 📈 Ključni nalazi:
 - Najprofitabilniji brend: **Contoso (~$50,430)**  
