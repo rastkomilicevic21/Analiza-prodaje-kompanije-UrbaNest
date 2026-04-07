@@ -98,7 +98,7 @@ Dashboard kreiran u Power BI prikazuje:
 ---
 
 ## 📁 Fajlovi
-- Excel dataset i Power BI fajl dostupni na Google Drive:  
+- Excel dataset i Power BI fajl dostupni na Google Drive-u:  
 👉 https://drive.google.com/drive/u/1/folders/1k4rPnQ76dVA6-UI1fcZBUiCZ6B965D_6
 ---
 
