@@ -1,4 +1,4 @@
-# 📊 UrbaNest – Analiza poslovanja
+# 📊 UrbaNest – Analiza poslovanja 
 
 ## 🧠 Pregled projekta
 Ovaj projekat predstavlja analizu poslovanja kompanije UrbaNest sa ciljem identifikacije ključnih poslovnih uvida, optimizacije procesa i donošenja data-driven odluka.
@@ -99,6 +99,6 @@ Dashboard kreiran u Power BI prikazuje:
 
 ## 📁 Fajlovi
 - Excel dataset i Power BI fajl dostupni na Google Drive:  
-👉[ https://drive.google.com/drive/u/1/folders/1k4rPnQ76dVA6-UI1fcZBUiCZ6B965D_6](Google Drive)
+👉 https://drive.google.com/drive/u/1/folders/1k4rPnQ76dVA6-UI1fcZBUiCZ6B965D_6
 ---
 
